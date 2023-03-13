@@ -2,7 +2,7 @@
 
 ---
 
-I'm a Software Engineer and Aspiring Open Source Contributor, interested in developer tooling and software optimization. I ahve 3+ years of experience with modern C++, with plenty of experience implementing build systems and developer tooling.
+I'm a Software Engineer and Aspiring Open Source Contributor, interested in developer tooling and software optimization. I have 3+ years of experience with modern C++, with plenty of experience implementing build systems and developer tooling.
 
 I graduated with a combined BS/MS in Computer Science, focused on High-Performance Computing and Massively Parallel Systems.
 
